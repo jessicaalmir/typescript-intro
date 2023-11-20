@@ -4,5 +4,5 @@ let isAlive: boolean = true;
 
 hpPoints = 'Hello World'
 
-console.log({name, hpPoints, isAlive});
+//console.log({name, hpPoints, isAlive});
 export{};
